@@ -32,9 +32,9 @@
 
 ## 📫 Контакты
 
-- **Email:** [rnd.askella@gmail.com]
-- **Telegram** [https://t.me/rnd_askella]
-- **GitHub:** [https://github.com/DevRnDAskella/DevRnDAskella/]
+- **Email:** [rnd.askella@gmail.com](mailto:rnd.askella@gmail.com)
+- **Telegram:** [@rnd_askella](https://t.me/rnd_askella)
+- **GitHub:** [DevRnDAskella](https://github.com/DevRnDAskella/DevRnDAskella/)
 ---
 
 **P.S.:** Этот профиль будет пополняться новыми проектами и интересными находками, так что не забудьте заглянуть снова!
