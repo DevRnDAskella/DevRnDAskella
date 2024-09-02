@@ -20,6 +20,9 @@
 ### [NorthWind Dashboard](https://github.com/DevRnDAskella/NorthWind_BI_Dashboard)
 Проект по созданию интерактивного дашборда в Power BI на основе открытых данных компании NorthWind.
 
+### [Weather Analyze](https://github.com/DevRnDAskella/Weather-Analyze)
+Рабочий проект по анализу попутной составляющей ветра на различных аэродромах для Воздушных Судов.
+
 ## 🧩 Решение задач
 
 ### [Solutions](https://github.com/DevRnDAskella/Solutions)
