@@ -7,7 +7,7 @@
 - **Tools**
   - Python, SQL
   - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-  - Power BI,  Excel, Power Query, Tableau, Git, Jupyter Notebook, Docker
+  - Datalens, Power BI,  Excel, Power Query, Tableau, Git, Jupyter Notebook, Docker
   - PostgreSQL, ClickHouse
   - EDA, RFM, ABC-XYZ, Cohort Analyse, etc
 
